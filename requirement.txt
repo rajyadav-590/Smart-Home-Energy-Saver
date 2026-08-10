@@ -1,0 +1,11 @@
+# required dependencies
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+prophet
+plotly
+requests
+pydantic
